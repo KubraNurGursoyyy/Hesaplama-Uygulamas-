@@ -1,0 +1,10 @@
+C:\Users\Kübra\source\repos\Ödev 2\Ödev 2\bin\Debug\Ödev 2.exe.config
+C:\Users\Kübra\source\repos\Ödev 2\Ödev 2\bin\Debug\Ödev 2.exe
+C:\Users\Kübra\source\repos\Ödev 2\Ödev 2\bin\Debug\Ödev 2.pdb
+C:\Users\Kübra\source\repos\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csprojAssemblyReference.cache
+C:\Users\Kübra\source\repos\Ödev 2\Ödev 2\obj\Debug\Ödev_2.Form1.resources
+C:\Users\Kübra\source\repos\Ödev 2\Ödev 2\obj\Debug\Ödev_2.Properties.Resources.resources
+C:\Users\Kübra\source\repos\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.GenerateResource.cache
+C:\Users\Kübra\source\repos\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\Ödev 2\Ödev 2\obj\Debug\Ödev 2.exe
+C:\Users\Kübra\source\repos\Ödev 2\Ödev 2\obj\Debug\Ödev 2.pdb
